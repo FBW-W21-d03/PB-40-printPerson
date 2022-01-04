@@ -1,5 +1,7 @@
 # javascript-printPerson
 
+## !NEU! - VERWENDE EIN RETURN IN DER FUNCTION
+
 ## Aufgabenstellung - Teil 1
 Eine Funktion soll in der Konsole ausgeben, wie alt eine Person ist und welchen Beruf sie hat.
 

@@ -7,19 +7,26 @@ function profile(name, alt, beruf) {
     alt: alt,
     Beruf: beruf,
   };
-  console.table(personProfie);
+  console.log(personProfie);
 }
 
 profile("John", 20, "Student");
+person("kawan", 34, "Web Developer");
+person("sprote", 40, "Web Developer");
+person("Enza", 44, "Web Developer");
+
 
 
 
 /// Zweite Lösung als function parameter ////
 function person(name, alter, beruf) {
-  console.log(name, "ist", alter, "Jahre alt und ein", beruf);
+  return name, "ist", alter, "Jahre alt und ein", beruf;
 }
 
 
 
-person("kawan", 34, "Web Developer");
+let peSronen = person("kawan", 34, "Web Developer");
+
+console.log(peSronen);
+
 

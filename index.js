@@ -1,9 +1,9 @@
-function personalInfo (name,old,job){
-    let myObject = {
-       Name :name,
-        Altr:old,
-        Beruf:job,
-    }
-    console.log(myObject);
+// 1)
+
+function person(name , age , job){
+    console.log(name ,  "ist" , age , "Jahre alt und" ,  job + ".")
 }
-personalInfo("John","20","Student")
+// 2)
+person('John' , 20 , "Student");
+person('Sarah' , 31 , 'Student');
+person('Rodi' , 38 , 'Arzt');

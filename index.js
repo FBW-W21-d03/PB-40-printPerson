@@ -5,9 +5,9 @@
   }
 
 // Aufgabenstellung - Teil 2
-let return1 = myFunktion("Hans", 38, "Anwalt");
-let return2 = myFunktion("Alex", 18, "Taxifahrer");
-let return3 = myFunktion("Goethe", 40, "Künstler");
+let return1 = myFunktion("Bob", 38, "Anwalt");
+let return2 = myFunktion("Adam", 18, "Taxifahrer");
+let return3 = myFunktion("Helmut", 40, "Künstler");
 
 console.log(return1);
 console.log(return2);

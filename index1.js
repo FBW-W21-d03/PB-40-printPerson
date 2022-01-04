@@ -1,7 +1,7 @@
 // 1)
 
-function person(name , age , occupation){
-    console.log(name ,  "ist" , age , "Jahre alt und" ,  occupation + ".")
+function person(name , age , job){
+    console.log(name ,  "ist" , age , "Jahre alt und" ,  job + ".")
 }
 // 2)
 person('John' , 20 , "Student");

@@ -1,7 +1,7 @@
 // AUFGABE TEIL-1
-function daten(Name, Alter, Beruf){
+function daten(name, alter, beruf){
 
-    console.log(Name ,"ist" , Alter ,"jahre alt und", Beruf);
+    console.log(name ,"ist" , alter ,"jahre alt und", beruf);
 }
 daten("John", "20","Student.");
 

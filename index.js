@@ -1,5 +1,5 @@
 function mensch(name, alter, beruf) {
-  console.log(name, "ist", alter, "Jahre alt und ein", beruf);
+  console.log(name, "ist", alter, "Jahre alt und ist", beruf);
 }
 
 // Aufgabe 2

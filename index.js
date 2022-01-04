@@ -1,11 +1,11 @@
 
-function profile ( Name,Alt,Beruf){
+function profile ( name,alt,beruf){
     let personProfie={
-    Name:Name,
-    alt:Alt,
-    Beruf:Beruf
+    Name:name,
+    alt:alt,
+    Beruf:beruf
 }
-console.log(personProfie);
+console.table(personProfie);
 };
 
 

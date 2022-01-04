@@ -1,3 +1,4 @@
+// Aufgabe 1
 function person(name, age, beruf) {
 
     let person = {
@@ -10,4 +11,5 @@ function person(name, age, beruf) {
 
 }
 
+// Aufgabe 2
 person("Joh", "30", "Web Developer");

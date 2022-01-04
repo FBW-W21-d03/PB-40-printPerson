@@ -1,10 +1,10 @@
 // AUFGABE TEIL-1
-function daten(name, alter, beruf){
+function daten(name, age, job){
 
-    console.log(name ,"ist" , alter ,"jahre alt und", beruf);
+    console.log(name ,"ist" , age ,"jahre alt und ein", job);
 }
-daten("John", "20","Student.");
+daten("John", 20,"Student.");
 
 // AUFGABE TEIL-2
-daten("Mary","25","Doctor.");
+daten("Mary", 25,"Doctor.");
 

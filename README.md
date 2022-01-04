@@ -1,4 +1,4 @@
-# javascript-printPerson
+name# javascript-printPerson
 
 ## Aufgabenstellung - Teil 1
 Eine Funktion soll in der Konsole ausgeben, wie alt eine Person ist und welchen Beruf sie hat.

@@ -13,3 +13,5 @@ Die Funktion gibt anschließend den Namen, das Alter und den Beruf in einer Kons
 Teste deine Funktion.
 
 Denke dir eine Person mit einem Alter und einem Beruf aus.
+
+# !NEU! - VERWENDE EIN RETURN IN DER FUNCTION

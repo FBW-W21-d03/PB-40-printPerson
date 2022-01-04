@@ -1,3 +1,5 @@
 function printPerson(name, age, job) { 
-console.log(name + " ist " + age + " Jahre alt und ein " + job + ".");} 
-printPerson("hans", 25, "rasierer");
+return name + " ist " + age + " Jahre alt und ein " + job + ".";} 
+
+let return1 = printPerson("Hans", 65, "Altkanzler");
+console.log(return1);
